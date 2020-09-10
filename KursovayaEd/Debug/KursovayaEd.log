@@ -1,0 +1,3 @@
+﻿  KursovayaEd.cpp
+C:\GITPr\C++\KursovayaEd\KursovayaEd\KursovayaEd.cpp(42,18): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+  KursovayaEd.vcxproj -> C:\GITPr\C++\KursovayaEd\Debug\KursovayaEd.exe
